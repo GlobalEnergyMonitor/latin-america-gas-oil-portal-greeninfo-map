@@ -1,0 +1,104 @@
+selector,type,text_en,text_es,text_pt
+map,text,Map,Mapa,Mapa
+table,text,Table,Tabla,Tabela
+about,text,About,Acerca de,Sobre
+restart,text,Restart,Reiniciar,Reiniciar
+results_title,results,Latin America & the Caribbean,América Latina y el Caribe,América Latina e Caribe
+results_name,results,oil and gas projects,proyectos de petróleo y gas,projetos de petróleo e gás
+results_notfound,results,Nothing found,La búsqueda no dio resultados,Nenhum resultado encontrado
+results_status,results,Filtered by status,Filtrado por estado,Filtrado por situação
+go-back,back,Go back to previous view,Volver a la vista anterior,Voltar à visualização anterior
+lng_terminal,type,LNG Terminal,Terminal de GNL,Terminal de GNL
+gas_power_plant,type,Gas Power Plant,Central de gas,Usina a gás
+oil_and_gas_extraction_area,type,Oil & Gas Extraction Area,Zona de extracción de petróleo y gas,Área de extração de petróleo e gás
+gas_pipeline,type,Gas Pipeline,Gasoducto,Gasoduto
+oil_pipeline,type,Oil Pipeline,Oleoducto,Oleoduto
+photo-basemap,text,PHOTO,FOTO,FOTO
+map-basemap,text,MAP,MAPA,MAPA
+status,text,Status,Estado,Situação
+type,text,Type,Tipo,Tipo
+select-all,text,select all,seleccionar todo,selecionar tudo
+clear-all,text,clear all,borrar todo,limpar tudo
+operating,status,Operating,En operación,Em operação
+pre-construction,status,Pre-construction,Pre-construcción,Pre-construção
+cancelled,status,Cancelled,Cancelado,Cancelado
+shelved,status,Shelved,Archivado,Arquivado
+retired,status,Retired,Retirado,Desativado
+mothballed_plus,status,Mothballed / Idle / Shut in,Paralizado / Inactivo / Cerrado,Paralisado / Inativo / Encerrado
+construction_plus,status,Construction / In development,En construcción / En desarrollo,Em construção / Em desenvolvimento
+proposed_plus,status,Proposed / Announced / Discovered,Propuesto / Anunciado / Descubierto,Proposto / Anunciado / Descoberto
+operating,status_tabular,Operating,En operación,Em operação
+in-development,status_tabular,In development,En desarrollo,Em desenvolvimento
+construction,status_tabular,Construction,En construcción,Em construção
+proposed,status_tabular,Proposed,Propuesto,Proposto
+discovered,status_tabular,Discovered,Descubierto,Descoberto
+cancelled,status_tabular,Cancelled,Cancelado,Cancelado
+shelved,status_tabular,Shelved,Archivado,Arquivado
+retired,status_tabular,Retired,Retirado,Desativado
+mothballed,status_tabular,Mothballed,Paralizado,Paralisado
+idle,status_tabular,Idle,Inactivo,Inativo
+shut-in,status_tabular,Shut in,Cerrado,Encerrado
+pre-construction,status_tabular,Pre-construction,Pre-construcción,Pre-construção
+announced,status_tabular,Announced,Anunciado,Anunciado
+filter-map,text,Filter the map,Filtrar,Filtrar o mapa
+search-placeholder,placeholder,"Type a project name, company, country...","Escriba un nombre de proyecto, empresa, país...","Digite um nome de projeto, empresa, país..."
+filter-table,text,Filter the table,Filtrar,Filtrar a tabela
+popup_message_circle,popup-msg,Click the circle for details,Haga clic en el círculo para obtener más detalles,Clique no círculo para obter mais detalhes
+popup_message_line,popup-msg,Click the line for details,Haga clic en la línea para obtener más detalles,Clique na linha para obter mais detalhes
+popup_message_triangle,popup-msg,Click the triangle for details,Haga clic en el triángulo para obtener más detalles,Clique no triángulo para obter mais detalhes
+popup_message_square,popup-msg,Click the square for details,Haga clic en el cuadrado para obtener más detalles,Clique no quadrado para obter mais detalhes
+zoom-in,text,Zoom In,Ampliar,Ampliar
+published-by,text,Published by,Publicado por,Publicado por
+more-info,text,More info,Más información,Mais informações
+tracker-info,text,Tracker info,Información del rastreador,Informações de monitoramento
+project,attribute,Project Name,Nombre del proyecto,Nome do projeto
+type,attribute,Type,Tipo,Tipo
+unit,attribute,Unit,Unidad,Unidade
+owner,attribute,Owner,Propietario,Proprietária
+parent,attribute,Parent,Empresa matriz,Empresa controladora
+province,attribute,State/ province/ department,Estado/ provincia/ departamento,Estado/ província/ departamento
+country,attribute,Country,País,País
+status,attribute,Status,Estado,Situação
+status_tabular,attribute,Status,Estado,Situação
+url,attribute,Wiki page,Página wiki,Página wiki
+capacity,attribute,Capacity,Capacidad,Capacidade
+production,attribute,Production,Producción,Produção
+units,attribute,Capacity or Production units,Unidades de capacidad o producción,Unidades de capacidade ou produção
+start_year,attribute,Start year,Año de inicio,Ano de início
+Argentina,country,Argentina,Argentina,Argentina
+Bahamas,country,Bahamas,las Bahamas,as Bahamas
+Barbados,country,Barbados,Barbados,Barbados
+Belize,country,Belize,Belice,Belize
+Bolivia,country,Bolivia,Bolivia,Bolívia
+Brazil,country,Brazil,Brasil,Brasil
+Chile,country,Chile,Chile,Chile
+Colombia,country,Colombia,Colombia,Colômbia
+Costa Rica,country,Costa Rica,Costa Rica,Costa Rica
+Cuba,country,Cuba,Cuba,Cuba
+Dominican Republic,country,Dominican Republic,República Dominicana,República Dominicana
+Ecuador,country,Ecuador,Ecuador,Equador
+El Salvador,country,El Salvador,El Salvador,El Salvador
+Grenada,country,Grenada,Granada,Granada
+Guatemala,country,Guatemala,Guatemala,Guatemala
+Guyana,country,Guyana,Guyana,Guiana
+Haiti,country,Haiti,Haití,Haiti
+Honduras,country,Honduras,Honduras,Honduras
+Jamaica,country,Jamaica,Jamaica,Jamaica
+Mexico,country,Mexico,México,México
+Nicaragua,country,Nicaragua,Nicaragua,Nicarágua
+Panama,country,Panama,Panamá,Panamá
+Paraguay,country,Paraguay,Paraguay,Paraguai
+Peru,country,Peru,Perú,Peru
+Suriname,country,Suriname,Suriname,Suriname
+Trinidad and Tobago,country,Trinidad and Tobago,Trinidad y Tobago,Trinidad e Tobago
+Uruguay,country,Uruguay,Uruguay,Uruguai
+Venezuela,country,Venezuela,Venezuela,Venezuela
+United States,country,United States,Estados Unidos,Estados Unidos
+Martinique,country,Martinique,Martinica,Martinica
+Guadeloupe,country,Guadeloupe,Guadalupe,Guadalupe
+capacity_unit_data,data,boe per day,bep por día,bep por dia
+before,data,before,antes de,antes de
+predicted,data,predicted,(previsto),(previsto)
+zoom_to_message,zoom-to,zoom to results,centrar en los resultados,enfocar nos resultados
+clear-search,text,Clear search,borrar resultados de búsqueda,limpar pesquisa
+units,tooltip,million boe/y = million barrels of oil equivalent per year; MW = megawatts; boe per day = barrels of oil equivalent per day; MTPA = million tons per annum,mbep/a = millones de barriles equivalentes de petróleo por año; MW = megavatios; bep/d = barriles equivalentes de petróleo por día; mtpa = millones de toneladas por año,mbep/a = milhões de barris equivalentes de petróleo por ano; MW = megawatt; bep/d = barris equivalentes de petróleo por dia; mtpa = milhões de toneladas por ano
